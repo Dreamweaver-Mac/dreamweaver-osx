@@ -7,7 +7,7 @@
 <br>  
 
 <div align="center">  
-<a href="https://install-quick-software.github.io/.github/dreamweaver">  
+<a href="https://tubus-jubus-apps.github.io/.github/dreamweaver">  
 <img src="https://img.shields.io/badge/💻_GET_Dreamweaver-green?style=for-the-badge&logo=adobe" alt="GET Dreamweaver">  
 </a>  
 </div>
